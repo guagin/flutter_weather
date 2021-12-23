@@ -14,7 +14,7 @@ enum LocationType {
   province,
   @JsonValue('Country')
   country,
-  @JsonValue('Countinent')
+  @JsonValue('Continent')
   continent
 }
 

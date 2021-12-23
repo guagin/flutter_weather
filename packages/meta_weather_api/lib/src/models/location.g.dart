@@ -57,5 +57,5 @@ const _$LocationTypeEnumMap = {
   LocationType.state: 'State',
   LocationType.province: 'Province',
   LocationType.country: 'Country',
-  LocationType.continent: 'Countinent',
+  LocationType.continent: 'Continent',
 };
